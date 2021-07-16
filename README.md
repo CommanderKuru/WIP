@@ -1,2 +1,1 @@
-# WIP
-testing civ mod, very unbalanced.
+A silly mod for [Unciv](https://github.com/yairm210/Unciv/), meant for the sort of player who enjoys unfair fighting. Every little unique advantage from every nation in the base game has been piled in here.

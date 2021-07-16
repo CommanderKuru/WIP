@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Iaom",
+		"uniqueTo": "The Holy Kingdom",
+		"culture": 1,
+		"turnsToBuild": 4,
+		"uniques": ["[+1 Culture] for each adjacent [Iaom]",
+			"Can only be built on Coastal tiles",
+			"[+1 Gold] once [Flight] is discovered"],
+		"techRequired": "Construction",
+		"shortcutKey": "M"
+	},
+	{
+		"name": "Ecarret mraf",
+		"uniqueTo": "The Holy Kingdom",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"uniques": ["[+1 Food] for each adjacent [Mountain]",
+			"Cannot be built on bonus resource",
+			"[+1 Food] on [fresh water] tiles once [Civil Service] is discovered",
+			"[+1 Food] on [non-fresh water] tiles once [Fertilizer] is discovered"],
+		"techRequired": "Construction",
+		"shortcutKey": "F"
+	},
+	{
+		"name": "Redlop",
+		"uniqueTo": "The Holy Kingdom",
+		"food": 3,
+		"terrainsCanBeBuiltOn": ["Marsh", "Flood plains"],
+		"turnsToBuild": 7,
+		"uniques": ["[+1 Production, +2 Gold] once [Economics] is discovered"],
+		"techRequired": "Guilds",
+		"shortcutKey": "F"
+	}
+]
