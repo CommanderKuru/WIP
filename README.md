@@ -1,2 +1,2 @@
 # WIP
-testing my unciv mod, very unbalanced.
+testing civ mod, very unbalanced.
